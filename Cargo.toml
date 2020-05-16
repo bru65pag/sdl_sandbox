@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"lesson02",
+	"sdl_surface",
+	"gfx_draw_circle",
+]
